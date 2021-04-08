@@ -7,6 +7,11 @@ L6Odoo13_followers_icon
 .. contents::
    :local:
 
+Que hace esto?
+==============
+
+.. image:: https://raw.githubusercontent.com/XeviGmail/Followers_Icons_Group/13.0/L6Odoo13_followers_icons_groups/static/description/Followers_and_Icons.png
+
 Versiones
 =========
 * 2021-04-07 (LEO13-78)
@@ -26,30 +31,6 @@ Identificacion
 * AdderComputer: T3273
 
 * Jira: LEO13-78 (https://ismaw34.atlassian.net/jira/software/projects/LEO13/boards/1?selectedIssue=LEO13-78)
-
-Instalation
-===========
-
-Settings
-========
-
-Funcionamiento Interno
-======================
-
-Seguridad
-=========
-
-Mejoras
-=======
-
-
-Cosas que no funcionan
-======================
-
-
-Changelog
-=========
-
 
 Known issues / Roadmap
 ======================
