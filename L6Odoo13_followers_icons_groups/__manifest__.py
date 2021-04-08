@@ -5,6 +5,7 @@
     'category': 'Tools',
     'author': '@XeviMesones - (Addercomputer)',
     'website': "https://papaya.addercomputer.com/",
+    'license': 'AGPL-3',
     'depends': [],
     'data': [
         'views/assets.xml',
