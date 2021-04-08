@@ -10,11 +10,11 @@ L6Odoo13_followers_icon
 Que hace esto?
 ==============
 
-    Se añaden iconos que nos muestan el tipo de usuario que es cada Follower: (Usuario Interno, Externo o Portal)
+* Se añaden iconos que nos muestan el tipo de usuario que es cada Follower: (Usuario Interno, Externo o Portal)
 
 .. image:: https://raw.githubusercontent.com/XeviGmail/Followers_Icons_Group/13.0/L6Odoo13_followers_icons_groups/static/description/Followers_and_Icons.png
 
-    Podemos cambiar los iconos que definen cada tipo desde settings:
+* Podemos cambiar los iconos que definen cada tipo desde settings:
 
 .. image:: https://raw.githubusercontent.com/XeviGmail/Followers_Icons_Group/13.0/L6Odoo13_followers_icons_groups/static/description/Followers_settings.png
 
