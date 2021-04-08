@@ -6,6 +6,7 @@
     'author': '@XeviMesones - (Addercomputer)',
     'website': "https://papaya.addercomputer.com/",
     'license': 'AGPL-3',
+    'images': ['images/adder.jpeg'],
     'depends': [],
     'data': [
         'views/assets.xml',
