@@ -36,7 +36,7 @@ Identificacion
 
 * AdderComputer: T3273
 
-* Jira: LEO13-78 (https://ismaw34.atlassian.net/jira/software/projects/LEO13/boards/1?selectedIssue=LEO13-78)
+* Jira: LEO13-78
 
 Known issues / Roadmap
 ======================
