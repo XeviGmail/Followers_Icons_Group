@@ -7,8 +7,8 @@ L6Odoo13_followers_icon
 .. contents::
    :local:
 
-Que hace esto?
-==============
+Descripción del Modulo
+======================
 
 * Se añaden iconos que nos muestan el tipo de usuario que es cada Follower: (Usuario Interno, Externo o Portal)
 
@@ -25,7 +25,7 @@ Versiones
 * 2021-04-06 (LEO13-78)
     Modulo finalizado según especificaiones
 * 2021-04-06 (LEO13-78)
-    Afegit el settings per poder canviar les icones
+    Añadido Settings para poder cambiar los iconos
 * 2021-04-05 (LEO13-78)
     Base operativa
 

@@ -1,8 +1,7 @@
-odoo.define('Learning_FrontBackend.ie_followers', function (require) {
+odoo.define('L6Odoo13_followers_icons_groups.ie_followers', function (require) {
 "use strict";
 
 const Followers = require('mail.Followers');
-console.log("FUERA ESTOY VIVO!!!!!");
 
 var core = require('web.core');
 var _t = core._t;
@@ -44,10 +43,9 @@ Followers.include({
         settings.push(['Public', publico])
     },
 
+    /* Modificamos esta funcion añadiendo los iconos que queremos*/
     _displayFollowers: async function () {
         var self = this;
-
-        console.log('settings: ', settings)
 
         /*  Tipos de Usuarios:
                 1 -> Internal User
@@ -71,7 +69,7 @@ Followers.include({
             fields: ['id','name','users'],
         });
 
-        // Aqui conseguimos la relacion entre usuario interno y el seguidor interno (Cliente)
+        // relacion entre usuario interno y el seguidor interno (Cliente)
         var internal_followers = await this._rpc({
             model: 'res.users',
             method: 'search_read',

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <odoo>
-    <!--
-        Añadimos nuestros documentos a los bundles (paquetes) que queramos.
-        Los bundles que ahora utilizaremos seran los de Frontend y los de Backend
-        Podriamos añadir Javasctript, CSS, SCSS...
-    -->
-
     <!-- Backend -->
     <!-- Añadimos al final del Bundle de Backend el archivo field.js -->
     <template id="assets_backend" inherit_id="web.assets_backend">

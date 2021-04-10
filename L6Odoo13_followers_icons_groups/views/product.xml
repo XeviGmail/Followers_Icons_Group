@@ -28,8 +28,3 @@
         </field>
     </record>
 </odoo>
-
-<!--
-    "o_wsale_product_btn" -> Ya esta predefinido por Odoo para poner ally nuestros añadidos
-    customize_show="True" -> Permite añadir dinamicamente este elemento desde la web
--->

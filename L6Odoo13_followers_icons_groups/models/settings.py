@@ -5,21 +5,6 @@ from odoo import fields, models, api
 class FollowersIconsGroupsSettings(models.TransientModel):
     _inherit = 'res.config.settings'
 
-    # @api.model
-    # def default_get(self, fields):
-    #     res = super(FollowersIconsGroupsSettings, self).default_get(fields)
-    #
-    #     if not res['internal']:
-    #         res['internal'] = 'fa fa-address-book'
-    #
-    #     if not res['portal']:
-    #         res['portal'] = 'fa fa-sign-in'
-    #
-    #     if not res['public']:
-    #         res['public'] = 'fa fa-globe'
-    #
-    #     return res
-
     internal = fields.Char(
         string='Internal',
     )
